@@ -56,7 +56,7 @@ li {
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: center; /* Centraliza o texto dentro do item */
+    text-align: center;
 }
 
 li:hover {
@@ -72,7 +72,7 @@ li a {
     transition: color 0.3s ease;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centraliza o conteúdo do link */
+    align-items: center;
 }
 
 li a:hover {
@@ -80,7 +80,7 @@ li a:hover {
 }
 
 li span {
-    margin-bottom: 10px; /* Adiciona espaço entre o texto e a imagem */
+    margin-bottom: 10px;
     font-size: 1.2rem;
 }
 
